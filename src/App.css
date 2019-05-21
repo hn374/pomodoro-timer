@@ -1,0 +1,25 @@
+.App {
+    text-align: center;
+    background: #E55D87; 
+    background: -webkit-linear-gradient(to bottom, #5FC3E4, #E55D87);
+    background: linear-gradient(to bottom, #5FC3E4, #E55D87);
+    min-height: 100vh;
+    top: 50%;
+}
+
+.Container {
+    height: 300px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.App-Container {
+    padding-top: 100px;
+}
+
+.Header {
+    color: #ff6666;
+    font-size: 95px;
+    margin-top: 0;
+    margin-bottom: 45px;
+}
